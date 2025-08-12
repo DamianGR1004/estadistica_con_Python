@@ -1,4 +1,6 @@
 Estadística con Python 📊
+
+
 Este proyecto es un cuaderno interactivo de Jupyter Notebook que introduce y aplica conceptos de estadística descriptiva usando Python.
 A través de ejemplos prácticos, se exploran técnicas de análisis y visualización de datos para comprender mejor la distribución y características de un conjunto de datos.
 
